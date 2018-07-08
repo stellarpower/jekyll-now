@@ -18,7 +18,7 @@ avatar: https://images.pexels.com/photos/990826/pexels-photo-990826.jpeg?cs=srgb
 # Includes an icon in the footer for each username you enter
 footer-links:
   github: stellarpower
-  stackoverflow: https://stackoverflow.com/users/4235856/stellarpower # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/4235856/stellarpower # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 
 
