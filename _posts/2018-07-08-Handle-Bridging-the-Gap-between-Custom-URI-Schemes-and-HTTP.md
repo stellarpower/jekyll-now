@@ -5,6 +5,7 @@ tags: 'Ionic, Android, Web'
 published: true
 ---
 
+
 I've spent the last few weeks working sporadically on an app with [Monzo](https://www.monzo.com). 
 <img style="float: right;" width="300" height="120" src="https://cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/005/589/resized/Monzo_horz_lightbg.png?1491325535"> If you've not heard of them, they're one of the various FinTech banks starting up in the UK, boasting a rich set of features and some pretty decent technological innovations. Well, they're not that impressive, but we all know the banking world moves at the speed of a Bracchiosaur. It seems they're giving lots of freebies to students to promote their platform; I'm always a little bit suspicious when computer science students are that excited about something involving the real world. One of their most promising features, however, is a public API. From the start the aim is to be open and allow customers to access their own data. This is a welcome change, and I decided to write a small app to help me with some regular tasks. 
 
