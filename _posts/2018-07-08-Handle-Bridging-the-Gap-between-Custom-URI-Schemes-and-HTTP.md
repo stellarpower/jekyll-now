@@ -16,7 +16,7 @@ The issue on the Monzo side (I still prefer it when they were called Mondo) is t
 
 The thing with OAuth is that it's not really a standard. It's been adapted so freely that a developer can't rely on a simple library to serve for any website. Google a while ago disabled OAuth requests in the InAppBrowser on Android so all of my Ionic plugins are useless for me to play with my Google data. The fix shouldn't be too hard but I've not got round to finalising it yet. In the case of Monzo, instead of asking for a username and password, they use a one-factor two-factor authentication if you will, and instead just send you an email with the link in that. I like this system. It means you don't have to worry about remembering a specific password and can just get on with opening an app in a few seconds. All well and good, but this then breaks the application flow as you can no longer be redirected by the InAppBrowser and so the OAuth flow never completes in the plugin I used. By exiting my application to open GMail, I'm then stuck with a callback that's useless.
 
-![Captura de pantalla de 2018-07-08 06-43-51.png]({{site.baseurl}}/_posts/Captura de pantalla de 2018-07-08 06-43-51.png)
+![Captura de pantalla de 2018-07-08 06-43-51.png](/_posts/Captura de pantalla de 2018-07-08 06-43-51.png)
 
 
 
