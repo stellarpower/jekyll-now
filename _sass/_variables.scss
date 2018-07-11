@@ -19,6 +19,19 @@ $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
+
+$header-heading-color: #fff !default;
+$header-bg-color: #B200FF !default;
+$header-bg-color-secondary: #B200FF !default;
+
+// Text
+$section-headings-color: #159957 !default;
+$body-text-color: #4354C6 !default;
+$body-link-color: #1e6bb8 !default;
+$blockquote-text-color: #819198 !default;
+
+
+
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
